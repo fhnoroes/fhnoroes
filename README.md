@@ -1,4 +1,4 @@
-# Estilo# 💫 About Me:
+💫 About Me:
 Sou graduando de Ciência da Computação na UFCA, técnico em informática e um Back-end em formação. Venho estudando algumas linguagens de programação como Java, Python e JavaScript. Tenho organização, capacidade de gestão, experiência com trabalhos em equipe e na resolução de problemas. 
 
 
